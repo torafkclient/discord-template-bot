@@ -1,0 +1,13 @@
+[2026-05-19 18:28:00:280] [[31merror[39m]: [31mFailed to connect to MongoDB database: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017[39m
+[2026-05-19 18:29:48:2948] [[31merror[39m]: [31mAutocomplete filtering failed: CustomTemplate.find(...).select is not a function[39m
+[2026-05-19 18:29:52:2952] [[31merror[39m]: [31mAutocomplete filtering failed: CustomTemplate.find(...).select is not a function[39m
+[2026-05-19 18:29:53:2953] [[31merror[39m]: [31mAutocomplete filtering failed: CustomTemplate.find(...).select is not a function[39m
+[2026-05-19 18:29:54:2954] [[31merror[39m]: [31mAutocomplete filtering failed: CustomTemplate.find(...).select is not a function[39m
+[2026-05-19 18:29:55:2955] [[31merror[39m]: [31mAutocomplete filtering failed: CustomTemplate.find(...).select is not a function[39m
+[2026-05-19 18:31:10:3110] [[31merror[39m]: [31mError applying category "📌 BİLGİLENDİRME": Invalid Form Body[39m
+[31mtype[BASE_TYPE_CHOICES]: Value must be one of {0, 2, 4, 6, 13, 14, 15, 16}.[39m
+[2026-05-19 19:54:40:5440] [[31merror[39m]: [31mError in /template list: Received one or more errors[39m
+[2026-05-19 19:54:51:5451] [[31merror[39m]: [31mError in /template list: Received one or more errors[39m
+[2026-05-19 20:08:59:859] [[31merror[39m]: [31mError creating category "📝 KAYIT ALANI": Cannot read properties of undefined (reading 'map')[39m
+[2026-05-19 20:08:59:859] [[31merror[39m]: [31mError creating category "💬 TOPLULUK MERKEZİ": Cannot read properties of undefined (reading 'map')[39m
+[2026-05-19 20:08:59:859] [[31merror[39m]: [31mError creating category "🎤 PUBLIC SES ALANI": Cannot read properties of undefined (reading 'map')[39m

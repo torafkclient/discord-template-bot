@@ -1,0 +1,319 @@
+{
+  "guilds": {
+    "1488080906232004801": {
+      "guildId": "1488080906232004801",
+      "isPremium": false,
+      "logs": [
+        {
+          "templateName": "public-community",
+          "appliedBy": "699598195071778816",
+          "appliedAt": "2026-05-19T15:31:16.385Z"
+        },
+        {
+          "templateName": "public-community",
+          "appliedBy": "699598195071778816",
+          "appliedAt": "2026-05-19T15:32:52.364Z"
+        },
+        {
+          "templateName": "gaming-clan",
+          "appliedBy": "699598195071778816",
+          "appliedAt": "2026-05-19T15:40:51.242Z"
+        },
+        {
+          "templateName": "public-community",
+          "appliedBy": "699598195071778816",
+          "appliedAt": "2026-05-19T16:57:08.910Z"
+        },
+        {
+          "templateName": "private-friends",
+          "appliedBy": "699598195071778816",
+          "appliedAt": "2026-05-19T16:57:47.387Z"
+        },
+        {
+          "templateName": "education",
+          "appliedBy": "699598195071778816",
+          "appliedAt": "2026-05-19T16:58:14.863Z"
+        },
+        {
+          "templateName": "meme-fun",
+          "appliedBy": "699598195071778816",
+          "appliedAt": "2026-05-19T16:58:35.860Z"
+        },
+        {
+          "templateName": "public-community",
+          "appliedBy": "699598195071778816",
+          "appliedAt": "2026-05-19T17:02:46.404Z"
+        },
+        {
+          "templateName": "anime-manga",
+          "appliedBy": "699598195071778816",
+          "appliedAt": "2026-05-19T17:03:26.168Z"
+        },
+        {
+          "templateName": "deneme",
+          "appliedBy": "699598195071778816",
+          "appliedAt": "2026-05-19T17:04:41.280Z"
+        },
+        {
+          "templateName": "education",
+          "appliedBy": "699598195071778816",
+          "appliedAt": "2026-05-19T17:05:18.334Z"
+        },
+        {
+          "templateName": "public-community",
+          "appliedBy": "699598195071778816",
+          "appliedAt": "2026-05-19T17:09:01.832Z"
+        },
+        {
+          "templateName": "public-community",
+          "appliedBy": "699598195071778816",
+          "appliedAt": "2026-05-19T17:10:28.209Z"
+        },
+        {
+          "templateName": "anime-manga",
+          "appliedBy": "699598195071778816",
+          "appliedAt": "2026-05-19T17:11:48.980Z"
+        },
+        {
+          "templateName": "saturn-ring",
+          "appliedBy": "699598195071778816",
+          "appliedAt": "2026-05-19T17:16:14.426Z"
+        },
+        {
+          "templateName": "private-friends",
+          "appliedBy": "699598195071778816",
+          "appliedAt": "2026-05-19T17:17:07.965Z"
+        },
+        {
+          "templateName": "small-community",
+          "appliedBy": "699598195071778816",
+          "appliedAt": "2026-05-19T17:26:14.915Z"
+        },
+        {
+          "templateName": "simple-server",
+          "appliedBy": "699598195071778816",
+          "appliedAt": "2026-05-19T17:27:17.742Z"
+        },
+        {
+          "templateName": "anime-ichigo",
+          "appliedBy": "699598195071778816",
+          "appliedAt": "2026-05-19T17:28:45.442Z"
+        },
+        {
+          "templateName": "coffee-beans",
+          "appliedBy": "699598195071778816",
+          "appliedAt": "2026-05-19T17:47:18.089Z"
+        },
+        {
+          "templateName": "coffee-beans",
+          "appliedBy": "699598195071778816",
+          "appliedAt": "2026-05-19T17:49:05.959Z"
+        },
+        {
+          "templateName": "minecraft-craft",
+          "appliedBy": "699598195071778816",
+          "appliedAt": "2026-05-19T17:49:53.306Z"
+        },
+        {
+          "templateName": "simple-server",
+          "appliedBy": "699598195071778816",
+          "appliedAt": "2026-05-19T17:50:57.792Z"
+        },
+        {
+          "templateName": "aesthetic-sakura",
+          "appliedBy": "699598195071778816",
+          "appliedAt": "2026-05-19T17:51:56.326Z"
+        },
+        {
+          "templateName": "anime-ichigo",
+          "appliedBy": "699598195071778816",
+          "appliedAt": "2026-05-19T18:07:14.374Z"
+        },
+        {
+          "templateName": "cyberpunk-lounge",
+          "appliedBy": "699598195071778816",
+          "appliedAt": "2026-05-19T18:08:49.599Z"
+        }
+      ],
+      "createdAt": "2026-05-19T15:31:16.385Z",
+      "updatedAt": "2026-05-19T18:08:49.599Z"
+    }
+  },
+  "templates": {
+    "deneme": {
+      "name": "deneme",
+      "createdAt": "2026-05-19T16:55:44.803Z",
+      "updatedAt": "2026-05-19T16:55:44.803Z",
+      "displayName": "Deneme",
+      "description": "deneme",
+      "category": "Custom",
+      "isPremium": false,
+      "createdBy": "699598195071778816",
+      "guildId": "1488080906232004801",
+      "roles": [
+        {
+          "name": "👑 Klan Lideri",
+          "color": "#ff3f34",
+          "hoist": true,
+          "mentionable": true,
+          "permissions": [
+            "CreateInstantInvite",
+            "KickMembers",
+            "BanMembers",
+            "Administrator",
+            "ManageChannels",
+            "ManageGuild",
+            "AddReactions",
+            "ViewAuditLog",
+            "PrioritySpeaker",
+            "Stream",
+            "ViewChannel",
+            "SendMessages",
+            "SendTTSMessages",
+            "ManageMessages",
+            "EmbedLinks",
+            "AttachFiles",
+            "ReadMessageHistory",
+            "MentionEveryone",
+            "UseExternalEmojis",
+            "ViewGuildInsights",
+            "Connect",
+            "Speak",
+            "MuteMembers",
+            "DeafenMembers",
+            "MoveMembers",
+            "UseVAD",
+            "ChangeNickname",
+            "ManageNicknames",
+            "ManageRoles",
+            "ManageWebhooks",
+            "ManageEmojisAndStickers",
+            "ManageGuildExpressions",
+            "UseApplicationCommands",
+            "RequestToSpeak",
+            "ManageEvents",
+            "ManageThreads",
+            "CreatePublicThreads",
+            "CreatePrivateThreads",
+            "UseExternalStickers",
+            "SendMessagesInThreads",
+            "UseEmbeddedActivities",
+            "ModerateMembers",
+            "ViewCreatorMonetizationAnalytics",
+            "UseSoundboard",
+            "CreateGuildExpressions",
+            "CreateEvents",
+            "UseExternalSounds",
+            "SendVoiceMessages",
+            "SendPolls",
+            "UseExternalApps",
+            "PinMessages",
+            "BypassSlowmode"
+          ]
+        },
+        {
+          "name": "⚔️ Takım Kaptanı",
+          "color": "#ffa801",
+          "hoist": true,
+          "mentionable": true,
+          "permissions": [
+            "KickMembers",
+            "ManageChannels",
+            "MuteMembers",
+            "MoveMembers"
+          ]
+        },
+        {
+          "name": "🎖️ Elit Oyuncu",
+          "color": "#05c46b",
+          "hoist": true,
+          "mentionable": false,
+          "permissions": [
+            "AddReactions",
+            "AttachFiles"
+          ]
+        },
+        {
+          "name": "🎮 Oyuncu",
+          "color": "#00d8d6",
+          "hoist": false,
+          "mentionable": false,
+          "permissions": [
+            "ViewChannel",
+            "SendMessages",
+            "Connect",
+            "Speak"
+          ]
+        }
+      ],
+      "categories": [
+        {
+          "name": "📢 LOBİ & DUYURU",
+          "channels": [
+            {
+              "name": "📢-duyurular",
+              "type": "text"
+            },
+            {
+              "name": "🏆-turnuvalar",
+              "type": "text",
+              "topic": "Klan turnuvaları ve etkinlikler"
+            },
+            {
+              "name": "📝-başvurular",
+              "type": "text",
+              "topic": "Klana katılım başvuruları"
+            }
+          ],
+          "permissionOverwrites": []
+        },
+        {
+          "name": "🎮 OYUN ALANI",
+          "channels": [
+            {
+              "name": "🎮-genel-sohbet",
+              "type": "text"
+            },
+            {
+              "name": "📸-clips",
+              "type": "text",
+              "topic": "Oyun içi en iyi anlarınızı paylaşın!"
+            },
+            {
+              "name": "👾-oyun-arama",
+              "type": "text",
+              "topic": "Beraber oynayacak arkadaş bulun"
+            }
+          ],
+          "permissionOverwrites": []
+        },
+        {
+          "name": "🔊 TAKIM ODALARI",
+          "channels": [
+            {
+              "name": "🔊 Lobide Sohbet",
+              "type": "voice"
+            },
+            {
+              "name": "🔊 Squad #1",
+              "type": "voice"
+            },
+            {
+              "name": "🔊 Squad #2",
+              "type": "voice"
+            },
+            {
+              "name": "🔊 Duo #1",
+              "type": "voice"
+            },
+            {
+              "name": "🔊 Duo #2",
+              "type": "voice"
+            }
+          ],
+          "permissionOverwrites": []
+        }
+      ]
+    }
+  }
+}
